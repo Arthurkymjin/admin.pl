@@ -3,10 +3,10 @@ admin page finder
 by Arthur (kosu)
 Team: Helipa Crew
 
-#Usage
+# Usage
 perl admin.pl --help
 perl admin.pl --list (lista)
 
-#Contact
+# Contact
 live:kosukymjin
 fb.com/kosu.sad.1
