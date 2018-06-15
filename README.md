@@ -1,12 +1,11 @@
 # admin.pl
-admin page finder
-by Arthur (kosu)
-Team: Helipa Crew
+
+admin page finder - by Arthur (kosu) - Helipa Crew
 
 # Usage
-perl admin.pl --help
-perl admin.pl --list (lista)
 
-# Contact
-live:kosukymjin
-fb.com/kosu.sad.1
+Help: perl admin.pl --help | Start: perl admin.pl --list (lista)
+
+# Contato
+
+Skype: live:kosusad | fb.com/kosu.sad.1
